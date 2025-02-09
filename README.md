@@ -28,7 +28,7 @@ The project follows a structured approach from raw data to insights:
   •	Built an interactive dashboard using Excel.  
   •	Visualized trends using charts, graphs, and maps.  
 
-## 3. Dashboard  
+## 3. Dashboard📊🖥️🔍  
 
 ![Ecommerce Sales Analysis Snap](https://github.com/user-attachments/assets/d08b0620-a815-4c45-b40a-82155bcf442f)
 
