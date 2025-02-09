@@ -27,3 +27,14 @@ The project follows a structured approach from raw data to insights:
 ### Step 5: Data Visualization & Dashboard Creation 📊📈🖥️
   •	Built an interactive dashboard using Excel.  
   •	Visualized trends using charts, graphs, and maps.  
+
+## Analysis & Insights: 📊📉📈
+•	Sales & Profit Analysis: Monthly sales trends with peaks in September and December.  
+•	Top 5 Products: Highest sales from Phones, Chairs, Storage, Tables, and Binders.  
+•	Sales by State: Sales mapped across the U.S., showing geographical variations.  
+•	Category Sales Share:   
+  o	Furniture: 32.30%  
+  o	Office Supplies: 31.30%  
+  o	Technology: 36.40%  
+•	Category-wise Profit: Technology leads, followed by Office Supplies and Furniture.  
+
