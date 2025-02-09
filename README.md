@@ -8,7 +8,7 @@ This project presents an E-Commerce Sales Analysis Dashboard that provides insig
 
 The project follows a structured approach from raw data to insights:
 
-Step 1: Data Collection 🗂️📥📊
+### Step 1: Data Collection 🗂️📥📊
   •	Extracted raw sales data from databases, APIs, and spreadsheets.
   •	Gathered order details, customer interactions, and regional sales figures.
 
