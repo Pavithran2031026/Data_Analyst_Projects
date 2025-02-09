@@ -8,7 +8,7 @@ This project presents an E-Commerce Sales Analysis Dashboard that provides insig
 
 <a href="https://github.com/Pavithran2031026/Data_Analyst_Projects/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Dataset</a>
 
-## 2. Data Processing Workflow 🔄📑🛠️
+## 3. Data Processing Workflow 🔄📑🛠️
 
 The project follows a structured approach from raw data to insights:
 
@@ -32,12 +32,12 @@ The project follows a structured approach from raw data to insights:
   •	Built an interactive dashboard using Excel.  
   •	Visualized trends using charts, graphs, and maps.  
 
-## 3. Dashboard📊🖥️🔍  
+## 4. Dashboard📊🖥️🔍  
 
 ![Ecommerce Sales Analysis Snap](https://github.com/user-attachments/assets/d08b0620-a815-4c45-b40a-82155bcf442f)
 
 
-## 4. Analysis & Insights 📊📉📈
+## 5. Analysis & Insights 📊📉📈
 •	Sales & Profit Analysis: Monthly sales trends with peaks in September and December.  
 •	Top 5 Products: Highest sales from Phones, Chairs, Storage, Tables, and Binders.  
 •	Sales by State: Sales mapped across the U.S., showing geographical variations.  
@@ -47,7 +47,7 @@ The project follows a structured approach from raw data to insights:
   --	Technology: 36.40%  
 •	Category-wise Profit: Technology leads, followed by Office Supplies and Furniture.  
 
-## 5. Problem & Solution Overview 📊🛠️🎯  
+## 6. Problem & Solution Overview 📊🛠️🎯  
 
 --Declining Profit Margin (-5.15%) → Adjust pricing, cut costs, and negotiate better supplier deals.  
 --Uneven Sales by State → Invest in local marketing and expand distribution.  
