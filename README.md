@@ -9,7 +9,7 @@ This project presents an E-Commerce Sales Analysis Dashboard that provides insig
 The project follows a structured approach from raw data to insights:
 
 ### Step 1: Data Collection 🗂️📥📊
-  •	Extracted raw sales data from databases, APIs, and spreadsheets.  
+  •	Extracted raw sales data from databases and spreadsheets.  
   •	Gathered order details, customer interactions, and regional sales figures.  
 
 ### Step 2: Data Cleaning 🧹🔍⚙️
@@ -25,9 +25,5 @@ The project follows a structured approach from raw data to insights:
   •	Used statistical analysis to detect outliers and deviations.  
 
 ### Step 5: Data Visualization & Dashboard Creation 📊📈🖥️
-  •	Built an interactive dashboard using Power BI/Tableau/Excel.
-  •	Visualized trends using charts, graphs, and maps.
-
-### Step 6: Insights & Business Recommendations 💡📈🚀
-  •	Provided actionable insights for business growth.  
-  •	Suggested strategies to enhance revenue and profit margins.  
+  •	Built an interactive dashboard using Excel.  
+  •	Visualized trends using charts, graphs, and maps.  
